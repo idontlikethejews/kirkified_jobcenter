@@ -4,7 +4,7 @@
 
 A modern job center system for ESX-based FiveM servers. Built with performance and security in mind.
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack (teknologia)
 
 - **Backend**: Lua (server-side & client-side)
 - **Frontend**: React with Tailwind CSS
