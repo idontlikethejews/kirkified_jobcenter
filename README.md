@@ -57,7 +57,20 @@ Three stunning UI styles to choose from:
 ## 📥 Installation
 
 1. Download and extract the script to your resources folder
-2. Add `ensure kirkified_jobcenter` to your server.cfg
-3. Configure `config.lua` to your preferences
-4. Add your jobs to the `Config.Jobs` table
-5. Restart your server
+2. Ensure dependencies are installed and started before this resource
+3. Add `ensure kirkified_jobcenter` to your server.cfg
+4. Configure `config.lua` to your preferences
+5. Add your jobs to the `Config.Jobs` table
+6. Restart your server
+
+## 📝 License
+
+This script is provided as-is. Feel free to modify for your server needs.
+
+## 🤝 Support
+
+For issues, suggestions, or contributions, please open an issue on GitHub.
+
+---
+
+**Made with ❤️ for the FiveM community**
